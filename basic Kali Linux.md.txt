@@ -1,0 +1,67 @@
+# Kali Linux Blog
+
+Welcome to the **Kali Linux Blog**, where we explore Kali Linux commands, tools, and cybersecurity techniques!
+
+## 📌 About This Blog
+This blog is dedicated to helping cybersecurity enthusiasts and professionals learn and master **Kali Linux** tools and commands. Whether you're a beginner or an advanced user, you'll find useful content here.
+
+## 🔹 Topics Covered
+- 🔥 **Basic Kali Linux Commands**
+- 🔎 **Information Gathering Tools**
+- 💻 **Exploitation & Pentesting**
+- 🔐 **Password Cracking & Privilege Escalation**
+- 📡 **Wireless & Network Security**
+- 🕵️ **Digital Forensics & OSINT**
+
+## 🚀 Basic Kali Linux Commands
+Here are some fundamental commands every Kali Linux user should know:
+
+### 📂 File Management
+- `ls` – List files and directories
+- `cd <directory>` – Change directory
+- `pwd` – Show current directory path
+- `cp <source> <destination>` – Copy files
+- `mv <source> <destination>` – Move/Rename files
+- `rm <file>` – Remove files
+
+### 👤 User Management
+- `whoami` – Show the current user
+- `sudo su` – Switch to root user
+- `adduser <username>` – Add a new user
+
+### 🌐 Networking
+- `ifconfig` or `ip a` – Show network interface details
+- `ping <website>` – Check network connectivity
+- `netstat -tulnp` – Display active connections
+
+### 🔍 System Monitoring
+- `ps aux` – Show running processes
+- `top` or `htop` – Display system resource usage
+- `kill <PID>` – Terminate a process
+
+### 🔐 Permissions & Ownership
+- `chmod <permissions> <file>` – Change file permissions
+- `chown <user>:<group> <file>` – Change file ownership
+
+## 📂 Blog Posts
+- [Introduction to Kali Linux](./kali-intro.md)
+- [Essential Kali Linux Commands](./kali-commands.md)
+- [Top 10 Kali Linux Tools for Penetration Testing](./top-10-tools.md)
+- More posts coming soon! 🚧
+
+## 🔗 Live Blog URL
+This blog is hosted using **GitHub Pages**: 
+👉 [https://yourusername.github.io/kali-linux-blog/](https://yourusername.github.io/kali-linux-blog/)
+
+## 🤝 Contribute
+Want to contribute? Feel free to **fork** this repository and submit a **pull request** with improvements or new topics!
+
+## 🛠 Tools Used
+- **Markdown (.md) for blog posts**
+- **GitHub Pages for hosting**
+- **Jekyll (optional) for advanced blogging**
+
+## 📬 Contact
+💬 If you have any questions or suggestions, reach out via GitHub Issues or email.
+
+Happy Hacking! 🔥
